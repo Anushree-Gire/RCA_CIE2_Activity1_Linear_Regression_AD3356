@@ -95,8 +95,8 @@ This repository contains:
 - **README.md:** Activity description, dataset information, workflow and results.
 
 ## 9. Faculty GitHub ID
-##Submission GitHub ID: [https://github.com/complexiota](https://github.com/complexiota)
-##Student project url: https://github.com/Anushree-Gire/RCA_CIE2_Activity1_Linear_Regression_AD3356
+**Submission GitHub ID:** [https://github.com/complexiota](https://github.com/complexiota)
+**Student project url:** https://github.com/Anushree-Gire/RCA_CIE2_Activity1_Linear_Regression_AD3356
 ---
 
 **Activity:** Multiple Linear Regression  
